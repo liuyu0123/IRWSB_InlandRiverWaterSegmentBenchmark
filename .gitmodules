@@ -1,0 +1,40 @@
+[submodule "Model/BiSeNet"]
+	path = Model/BiSeNet
+	url = https://github.com/liuyu0123/BiSeNet-ooooverflow.git
+	branch = feature/ly/segment
+[submodule "Model/UNet"]
+	path = Model/UNet
+	url = https://github.com/liuyu0123/Pytorch-UNet.git
+	branch = feature/ly/develop
+[submodule "Model/SegNet"]
+	path = Model/SegNet
+	url = https://github.com/liuyu0123/SegNet_PyTorch.git
+	branch = feature/ly/water_segment
+[submodule "Model/FastSCNN"]
+	path = Model/FastSCNN
+	url = https://github.com/liuyu0123/Fast-SCNN-pytorch.git
+	branch = develop
+[submodule "Model/SegFormer"]
+	path = Model/SegFormer
+	url = https://github.com/liuyu0123/segformer-pytorch.git
+	branch = feature/ly/water_segment
+[submodule "Model/PSPNet"]
+	path = Model/PSPNet
+	url = https://github.com/liuyu0123/pspnet-pytorch.git
+	branch = feature/ly/water_segment
+[submodule "Model/WaSR"]
+	path = Model/WaSR
+	url = https://github.com/liuyu0123/WaSR.git
+	branch = feature/ly/water_segment
+[submodule "Model/DeepLabV3plus"]
+	path = Model/DeepLabV3plus
+	url = https://github.com/liuyu0123/deeplabv3-plus-pytorch.git
+	branch = feature/ly/water_segment
+[submodule "Model/ENet"]
+	path = Model/ENet
+	url = https://github.com/liuyu0123/PyTorch-ENet.git
+	branch = feature/ly/water_segment
+[submodule "Model/SwinUperNet"]
+	path = Model/SwinUperNet
+	url = https://github.com/liuyu0123/Swin-UperNet.git
+	branch = feature/ly/water_segment
